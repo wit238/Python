@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-st.header('wit')
+st.header('โปรเจคทำนายชนิดของดอกไอริสด้วย KNN')
 st.image("./img/wit.jpg")
 col1, col2, col3 = st.columns(3)
 
